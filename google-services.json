@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "810371018445",
+    "project_id": "foodcort-71c9a",
+    "storage_bucket": "foodcort-71c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810371018445:android:d526d08fd361aebbc2c384",
+        "android_client_info": {
+          "package_name": "com.yashraj2008.foodcort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810371018445-3fs6b2oq297j9nd92dsvoutambsiu1j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yashraj2008.foodcort",
+            "certificate_hash": "ec497c0ba06dde1b297733c051c767e8cd52e963"
+          }
+        },
+        {
+          "client_id": "810371018445-635ga8akpo5kc5o338htcbd36b0th1vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yashraj2008.foodcort",
+            "certificate_hash": "eb48c147a36719a8fea0f718146bba6ad9eb4f12"
+          }
+        },
+        {
+          "client_id": "810371018445-j643tm08rl3uuh4k5gmrg3uovjbe5pt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGgmvp3Y1UzVe5PKK8DtXM1r6_tBv46OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810371018445-j643tm08rl3uuh4k5gmrg3uovjbe5pt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
